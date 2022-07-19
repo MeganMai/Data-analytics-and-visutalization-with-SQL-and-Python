@@ -12,7 +12,7 @@ This project is working the [AdventureWorks Database](https://docs.microsoft.com
 
 1. The first quesiton is to find out who is the best performing country in the past 2 year (via Sales YTD and Sales Last Year).
 
-2. After that, extract the regional sales of the top performing country and investigate the related figures including Numbers of Customers, Average order Values, Total Sales Quota and created a Sale Category set based on numbers customer in each region. This task is conducted in SQL using INNER JOIN, CASE WHEN, AGGREGATION functions, SUB QUERIES, WHERE & GROUP BY
+2. After that, extract the regional sales of the top performing country and investigate the related figures including Numbers of Customers, Average order Values, Total Sales Quota and created a Sale Category set based on numbers customer in each region. This task is conducted in SQL using INNER JOIN, CASE WHEN, AGGREGATION functions, SUB QUERIES, WHERE, CASE WHEN & GROUP BY
 
 3. Ater transforming, we have a table including all details needed
 ![](https://github.com/MeganMai/Data-analytics-and-visutalization-with-SQL-and-Python/blob/main/Table%201_Regional_Sales_Combined_Data.PNG)
